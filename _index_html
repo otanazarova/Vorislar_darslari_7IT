@@ -1,0 +1,76 @@
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  </head>
+  <body>
+    <video width="250" height="150" controls muted autoplay>
+        <source src="./BigBuckBunny_320x180.mp4" >
+        </video>
+
+        <video width="230" height="190" controls muted autoplay>
+          <source src="./Big Buck Bunny on Vimeo.html" >
+        </video>
+        
+        <video width="340" height="223" controls muted autoplay>
+          <source src="https://vimeo.com/1084537">
+
+        </video>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </body>
+  </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
