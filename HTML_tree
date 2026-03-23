@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <body>
+     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       section nav img  {
+            background-color: aqua;
+            border-radius: 15%;
+        }
+    </style>
+</head>
+<nav>
+    <div>
+        <h1></h1>
+        <div>
+            <p></p>
+            <img>
+            <div>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+        <p></p>
+    </div>
+</nav>
+<section>
+    <h1>sectioning ichidagi h1 </h1>
+    <p>sectioning ichidagi paragraph</p>
+    <h3>section h3</h3>
+    <nav>
+        <h1>navning ichidagi h1</h1>
+        <p>navning ichidagi paragraph</p>
+        <h3>nav h3</h3>
+        <img src="arda.jpg" alt="">
+        <header>
+             <h1>headerning ichidagi h1</h1>
+             <p>headerning ichidagi paragraph</p>
+             <h3>header h3</h3>
+
+        </header>
+        <div>
+            <p>divning ichidagi p</p>
+            <ol>
+                <li>olma</li>
+                <li>nok</li>
+                <li>anor</li>
+            </ol>
+        </div>
+    </nav>
+</section>
+<body>
+    <nav></nav>
+    <header>gulnoza</header>
+</body>
+<nav>
+    <h1>farhod</h1>
+    <div>dilshodbek</div>
+    <p>hello</p>
+</nav>
+<div>
+    <p>what?</p>
+    <img>
+    <div>
+        <ul>
+            <li>hello</li>
+            <li>salom</li>
+            <li>qalaysan</li>
+        </ul>
+    </div>
+</div>
+<header>
+    <div>nima</div>
+    <h2>nega</h2>
+    <div>salom</div>
+    <div>
+        <ol>Qalaysan</ol>
+        <li>
+            <a>Dilnura</a>
+        </li>
+        <li>
+            <a>Nafosat</a>
+        </li>
+        <li>
+            <a>Oygul</a>
+        </li>
+    </div>
+    <div>
+        <ul>olma</ul>
+        <h6>anor</h6>
+        <p>orik</p>
+        <p>behi</p>
+        <p>banan</p>
+        <ul>
+            <li>salom</li>
+            <li>salom</li>
+            <li>salom</li>
+        </ul>
+    </div>
+</header>
+
+
+</body>
+
+
+
+
+
